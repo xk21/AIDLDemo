@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIDLDemo.iml" filepath="$PROJECT_DIR$/AIDLDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlServer/AIDLDemo-aidlServer.iml" filepath="$PROJECT_DIR$/aidlServer/AIDLDemo-aidlServer.iml" group="AIDLDemo/aidlServer" />
+      <module fileurl="file://$PROJECT_DIR$/aidlclient/AIDLDemo-aidlclient.iml" filepath="$PROJECT_DIR$/aidlclient/AIDLDemo-aidlclient.iml" group="AIDLDemo/aidlclient" />
+      <module fileurl="file://$PROJECT_DIR$/aa_test-AIDLDemo.iml" filepath="$PROJECT_DIR$/aa_test-AIDLDemo.iml" group="AIDLDemo" />
       <module fileurl="file://$PROJECT_DIR$/aidlServer/aidlServer.iml" filepath="$PROJECT_DIR$/aidlServer/aidlServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/aidlclient/aidlclient.iml" filepath="$PROJECT_DIR$/aidlclient/aidlclient.iml" />
     </modules>
